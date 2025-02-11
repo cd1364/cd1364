@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Daphal</h1>
-<h3 align="center">Third year IT student, focus on mastering fundamental concepts such as programming languages, databases, web development.</h3>
+<h3 align="center">Final year IT student, focus on mastering fundamental concepts such as programming languages, databases, web development.</h3>
 
 - 📫 How to reach me **chaitanyardaphal1364@gmail.com**
 
